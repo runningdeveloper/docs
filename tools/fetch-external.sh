@@ -29,4 +29,4 @@ cd pages/reference/ && { curl -O -L https://github.com/balena-io/device-diagnost
 cd pages/learn/deploy/release-strategy/ && { curl -O -L https://github.com/balena-io/balena-supervisor/raw/master/docs/update-locking.md; cd -; }
 
 # get integrations
-cd pages/learn/develop/integrations/ && { curl -O -L https://raw.githubusercontent.com/balenalabs/google-iot/master/README.md; mv README.md google.md ; cd -; }
+cd pages/learn/develop/integrations/ && { curl -O -L https://raw.githubusercontent.com/balenalabs/google-iot/master/README.md; mv README.md google-iot.md ; cd -; }
